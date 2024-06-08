@@ -1,0 +1,4 @@
+ADD_POOL pool1
+ADD_SCHEME pool1 scheme1
+ADD_COLLECTION pool1 scheme1 collection1 first_fit sorted_list
+ADD_VALUE pool1 scheme1 collection1 100 100 10.10.2010 0 Moscow info
